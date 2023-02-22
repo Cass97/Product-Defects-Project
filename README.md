@@ -1,2 +1,2 @@
 # Product-Defects-Project
-Informal Q&amp;A Project as part of Codecademy Probability module
+This was an off-platform project as part of the "Probability for Data Science" module in the Codecademy Data Science course. It was used for practical learning of statistics. It demonstrates the use of SciPy and NumPy. These libraries were used to create perform calculations based on a Poisson Distribution and produce random variables. This is intended to be a record of my learning only and not judged as a formal assessment.
